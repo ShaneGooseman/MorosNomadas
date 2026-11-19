@@ -39,4 +39,4 @@ Landing page oficial de la **Comparsa Moros Nómadas de Guardamar del Segura** (
 - **CIF:** `G53092664`
 - **Registro Autonómico (Generalitat Valenciana):** Sección Primera, nº `5225`
 - **Sede Social:** «Casa del Mar», C/ Colón 32, 2º, 03140 Guardamar del Segura (Alicante)
-- **Contacto:** `morosnomadas.secretario@gmail.com`
+- **Contacto:** `info@morosnomadasguardamar.es`
