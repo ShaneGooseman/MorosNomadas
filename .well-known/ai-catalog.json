@@ -1,0 +1,24 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Comparsa Moros Nómadas de Guardamar del Segura",
+    "identifier": "did:web:morosnomadasguardamar.es"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:morosnomadasguardamar.es:site:llms",
+      "displayName": "Información oficial para agentes (llms.txt)",
+      "type": "text/markdown",
+      "description": "Resumen estructurado en Markdown con la misión, historia desde 1979, listado de filadas, junta directiva, sede social e información legal de la Comparsa Moros Nómadas de Guardamar del Segura.",
+      "url": "https://morosnomadasguardamar.es/llms.txt",
+      "representativeQueries": [
+        "¿Qué es la Comparsa Moros Nómadas de Guardamar del Segura?",
+        "¿Cuál es la misión, CIF y registro legal de Moros Nómadas?",
+        "Listado de filadas y junta directiva de Moros Nómadas Guardamar"
+      ],
+      "tags": ["moros-y-cristianos", "guardamar", "cultura", "asociacion"],
+      "version": "1.0.0",
+      "updatedAt": "2026-11-23T00:00:00Z"
+    }
+  ]
+}
